@@ -1,8 +1,9 @@
-# ElasticNet Regression Classifier in Scikit-Learn
+# ElasticNet Regression in Scikit-Learn
 
 ## Project Description
 
-This repository is a dockerized implementation of the ElasticNet regressor. It is implemented in flexible way that it can be used with any regression dataset with the use of JSON-formatted data schema file. The main purpose of this repository is to provide a complete example of a machine learning model implementation that is ready for deployment.
+This repository is a dockerized implementation of the ElasticNet regressor. It is implemented in flexible way that it can be used with any regression dataset with the use of JSON-formatted data schema file.
+The main purpose of this repository is to provide a complete example of a machine learning model implementation that is ready for deployment.
 The following are the requirements for using your data with this model:
 
 - The data must be in CSV format.
